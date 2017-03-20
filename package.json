@@ -1,0 +1,23 @@
+{
+  "name": "mongo-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethlumalicay/mongo-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennethlumalicay/mongo-db/issues"
+  },
+  "homepage": "https://github.com/kennethlumalicay/mongo-db#readme"
+}
